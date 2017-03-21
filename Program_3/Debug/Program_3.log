@@ -1,4 +1,9 @@
-﻿  stdafx.cpp
+﻿cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
   Program_3.cpp
+e:\msi\opengl\zajecie_2\program_3\program_3.cpp(76): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\msi\opengl\zajecie_2\program_3\program_3.cpp(120): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\msi\opengl\zajecie_2\program_3\program_3.cpp(121): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\msi\opengl\zajecie_2\program_3\program_3.cpp(144): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\msi\opengl\zajecie_2\program_3\program_3.cpp(145): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
   Program_3.vcxproj -> E:\MSI\OPENGL\Zajecie_2\Program_1\Debug\Program_3.exe
   Program_3.vcxproj -> E:\MSI\OPENGL\Zajecie_2\Program_1\Debug\Program_3.pdb (Full PDB)
